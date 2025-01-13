@@ -1,6 +1,6 @@
 # Industry_Relation_Mapping_Using_NLP_and_Neo4j
 
-This project finds the relation between any two random inducstries, through the help of finding keywords. It finds routes of connections between different industries.     
+This project finds the relation between any two random industries, through the help of finding keywords from Articles and other data sources. It finds routes of connections between different industries.     
 
 ![WhatsApp Image 2023-03-28 at 6 11 29 PM](https://github.com/AnushSomasundaram/Industry_Relation_Mapping_Using_NLP_and_Neo4j/assets/26061559/a9a42009-59db-42e8-a3f2-ef20cb69a976)
 ![WhatsApp Image 2023-03-28 at 6 12 41 PM](https://github.com/AnushSomasundaram/Industry_Relation_Mapping_Using_NLP_and_Neo4j/assets/26061559/ff075966-ad03-4d63-9418-dc025db096a6)
